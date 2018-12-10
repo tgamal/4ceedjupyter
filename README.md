@@ -38,12 +38,15 @@ To stop all services, simply press `Ctrl+C`, or run `docker-compose down` if run
 1. In the homepage, click on the tab named "Jupyter Session" in the right side of the screen
 
 2. Enter a name for the Jupyter session and the duration that you will use the Jupyter notebook server and click on the reserve button
+
 ![](screenshots/2.png)
 
 3. The reserve button will display a link for the Jupyter notebook server. When you click on it, it will show the Jupyter notebook interface.
+
 ![](screenshots/3.png)
 
 4. The notebook has some examples stored in it and you can also see some examples [here](example-notebooks)
+
 ![](screenshots/4.png)
 
 # Example Notebook
