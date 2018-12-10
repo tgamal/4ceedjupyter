@@ -32,16 +32,17 @@ After all services have been started, 4CeeD's curator is accessible at `http://[
 
 To stop all services, simply press `Ctrl+C`, or run `docker-compose down` if running in detached mode.
 
-%# Testing Jupyter
+# Testing Jupyter
 
 
-%1. In the homepage, click on the tab named "Jupyter Session" in the left side of the screen 
+1. ![In the homepage, click on the tab named "Jupyter Session" in the left side of the screen]
+(screenshots/1.png)
 
-%2. Enter a name for the Jupyter session and the duration that you will use the Jupyter notebook server and click on the reserve button
+2. Enter a name for the Jupyter session and the duration that you will use the Jupyter notebook server and click on the reserve button
 
-%3. The reserve button will display a link for the Jupyter notebook server. When you click on it, it will show the Jupyter notebook interface.
+3. The reserve button will display a link for the Jupyter notebook server. When you click on it, it will show the Jupyter notebook interface.
 
-%4. The notebook has some examples stored in it and you can also see some examples [here](example-notebooks)
+4. The notebook has some examples stored in it and you can also see some examples [here](example-notebooks)
 
 
 # Example Notebook
