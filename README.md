@@ -41,8 +41,8 @@ To stop all services, simply press `Ctrl+C`, or run `docker-compose down` if run
 
 %3. The reserve button will display a link for the Jupyter notebook server. When you click on it, it will show the Jupyter notebook interface.
 
-%4. The notebook has some examples stored in it and you can also see some examples [here](examples)
+%4. The notebook has some examples stored in it and you can also see some examples [here](example-notebooks)
 
 
 # Example Notebook
-An example notebook can be found [here](examples/plot_metadata.ipynb)
+An example notebook can be found [here](example-notebooks/plot_metadata.ipynb)
